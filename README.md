@@ -48,6 +48,7 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
   <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
 </div>
+
 ---
 
 <h3>About me</h3>
