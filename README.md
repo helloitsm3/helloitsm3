@@ -1,6 +1,4 @@
-<center>
-    <h1>👋, I'm <a href="https://github.com/helloitsm3">Sean!</a></h1>
-</center>
+<h1 style="text-align: center">👋, I'm <a href="https://github.com/helloitsm3">Sean!</a></h1>
 
 <p align="center">
     <a href="#">Website</a> •
