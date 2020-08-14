@@ -9,8 +9,12 @@
 </p>
 
 <center>
-    <img src="https://gpvc.arturio.dev/helloitsm3" alt="profile views">
-    <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" alt="Build Status">
+    <a href="#">
+        <img src="https://gpvc.arturio.dev/helloitsm3" alt="profile views">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" alt="Build Status">
+    </a>
     <a href="https://github.com/helloitsm3/helloitsm3/graphs/contributors">
         <img src="https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square" alt="Build Status" />
     </a>
