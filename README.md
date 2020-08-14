@@ -1,4 +1,4 @@
-<h1 style="text-align: center">👋, I'm <a href="https://github.com/helloitsm3">Sean!</a></h1>
+<h1 align="center">👋, I'm <a href="https://github.com/helloitsm3">Sean!</a></h1>
 
 <p align="center">
     <a href="#">Website</a> •
@@ -6,7 +6,7 @@
     <a href="https://twitter.com/helloitsme_sl">Twitter</a>
 </p>
 
-<center>
+<div align="center">
     <a href="#">
         <img src="https://gpvc.arturio.dev/helloitsm3" alt="profile views">
     </a>
@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/sean-leng/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn" />
     </a>
-</center>
+</div>
 
 ---
 
