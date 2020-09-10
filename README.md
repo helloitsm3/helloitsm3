@@ -3,7 +3,8 @@
 <p align="center">
     <a href="#">Website</a> •
     <a href="https://github.com/helloitsm3/helloitsm3">README</a> •
-    <a href="https://twitter.com/helloitsme_sl">Twitter</a>
+    <a href="https://twitter.com/helloitsme_sl">Twitter</a> •
+    <a href="https://dev.to/helloitsm3">Dev.to</a>
 </p>
 
 <div align="center">
