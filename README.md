@@ -38,7 +38,6 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
@@ -50,9 +49,7 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
 <h3>Services I use</h3>
 <div>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />
-    <img alt="digitalocean" src="https://img.shields.io/badge/-Digital Ocean-3498db?style=flat-square&logo=digitalocean&logoColor=white" />
     <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="mlab atlas" src="https://img.shields.io/badge/-mLab Atlas-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Gitlab CI" src="https://img.shields.io/badge/-GitlabCI-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
@@ -74,7 +71,7 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
 
 - 📫 How to reach me: `seanlengws@gmail.com`
 - ⚡ Fun fact: I have a diploma in Game Development and Technologies
-- 🌱 I'm currently learning GraphQL, Typescript and Docker
+- 🌱 I'm currently learning GraphQL, Typescript, Kubernetes and Docker
 - 💬 Feel free to ask me anything
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=helloitsm3&show_icons=true&cache_seconds=86400&theme=tokyonight)
