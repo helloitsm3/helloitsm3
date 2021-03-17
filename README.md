@@ -75,3 +75,4 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
 - 💬 Feel free to ask me anything
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=helloitsm3&show_icons=true&cache_seconds=86400&theme=tokyonight)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
