@@ -74,4 +74,5 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
 - 💬 Feel free to ask me anything
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=helloitsm3&show_icons=true&cache_seconds=86400&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=helloitsm3&theme=monokai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Metrics](https://github.com/helloitsm3/helloitsm3/blob/master/github-metrics.svg)
