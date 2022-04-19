@@ -33,10 +33,8 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
@@ -50,18 +48,14 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="aws" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />
     <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    <img alt="mlab atlas" src="https://img.shields.io/badge/-mLab Atlas-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="Gitlab CI" src="https://img.shields.io/badge/-GitlabCI-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
     <img alt="Github" src="https://img.shields.io/badge/-Github-2c3e50?style=flat-square&logo=Github&logoColor=white" />
-    <img alt="Unity 3D" src="https://img.shields.io/badge/-Unity 3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-3498db?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
 <h3>Things I'm learning</h3>
 <div>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-3498db?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3498db?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498db?style=flat-square&logo=flutter&logoColor=white" />
+    <img alt="Swift" src="https://img.shields.io/badge/-Swift-3498db?style=flat-square&logo=swift&logoColor=white" />
 </div>
 
 ---
