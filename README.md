@@ -27,7 +27,7 @@
 
 ---
 
-I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-leng/) focusing on fullstack web applications in Singapore. I focus on both front-end technologies like React.js and React Native and also using back-end technologies such as databases and APIs.
+I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-leng/) focusing on fullstack web applications in Singapore. I focus on both front-end technologies like React.js, TailwindCSS etc.
 
 <h3>Things I code with</h3>
 <div>
@@ -35,7 +35,6 @@ I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-l
   <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
