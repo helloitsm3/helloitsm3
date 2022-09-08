@@ -27,7 +27,7 @@
 
 ---
 
-I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-leng/) focusing on fullstack web applications in Singapore. I focus on both front-end technologies like React.js, TailwindCSS etc.
+I'm a [Software Engineer Undergraduate @ SIT](https://www.linkedin.com/in/sean-leng/) focusing on fullstack web applications in Singapore. I focus on front-end technologies like React.js, TailwindCSS etc.
 
 <h3>Things I code with</h3>
 <div>
