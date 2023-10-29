@@ -1,7 +1,5 @@
 <h1 align="center">👋, I'm <a href="https://github.com/helloitsm3">Sean!</a></h1>
 
-![readmebox](https://github.com/helloitsm3/helloitsm3/assets/13825491/61060ae9-363b-414f-836d-89e31b30cb2e)
-
 <p align="center">
     <a href="#">Website</a> •
     <a href="https://github.com/helloitsm3/helloitsm3">README</a> •
@@ -25,6 +23,10 @@
     <a href="https://www.linkedin.com/in/sean-leng/">
         <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn" />
     </a>
+</div>
+
+<div align="center">
+    <img src="[https://komarev.com/ghpvc/?username=helloitsm3](https://github.com/helloitsm3/helloitsm3/assets/13825491/61060ae9-363b-414f-836d-89e31b30cb2e)" alt="profile views">
 </div>
 
 ---
