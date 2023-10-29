@@ -25,6 +25,8 @@
     </a>
 </div>
 
+<br />
+
 <div align="center">
     <img src="https://github.com/helloitsm3/helloitsm3/assets/13825491/61060ae9-363b-414f-836d-89e31b30cb2e" alt="introduction">
 </div>
