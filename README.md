@@ -9,7 +9,7 @@
 
 <div align="center">
     <a href="#">
-        <img src="https://gpvc.arturio.dev/helloitsm3" alt="profile views">
+        <img src="https://komarev.com/ghpvc/?username=helloitsm3" alt="profile views">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" alt="Build Status">
